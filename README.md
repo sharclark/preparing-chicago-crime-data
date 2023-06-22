@@ -1,6 +1,5 @@
-# preparing-chicago-crime-data
- 
-- This repo contains a notebook for processing Chiacgo Crime data into a repo-friendly format. 
-- To use this notebook: 
-    - either fork this repository to your own account, and then rename it to be someting like "Project-4"
-    - or download the notebook and save it in your own Project 4 repository.
+# Project Dashboard
+https://public.tableau.com/app/profile/shar.clark/viz/ChicagoCrimeDashboard_16873938647300/SecondaryDashboard?publish=yes
+
+## 
+![Screenshot 2023-06-21 at 6 22 47 PM](https://github.com/sharclark/preparing-chicago-crime-data/assets/123594410/cf055c72-b6fc-4886-a362-bfa4e682bc09)
